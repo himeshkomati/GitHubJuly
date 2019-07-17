@@ -6,6 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("Git Code Code");
 	        System.out.println("Git Code Changes");
+		System.out.println("Merge the Codes");
 	}
 
 }
